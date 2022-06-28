@@ -5,11 +5,14 @@ Imagine you are testing a room booking application.
 Using this room booking [API Documentation](https://restful-booker.herokuapp.com/apidoc/index.html)
 
 ## Task 1
+Based on the API above, how would you go about testing it. Explain your approach in as much detail as you can, taking everything in to consideration.
+
+## Task 2
 To ensure the application is healthy, the DevOps team call the `/ping` endpoint every minute.
 1. Fix the failing healthcheck test
 1. Suggest any improvements
 
-## Task 2
+## Task 3
 In order to present the name of the person who has made the booking. The API must return booking information based on the booking id e.g. `/booking/1`.    
 1. Get a booking by id and check booking details
 
