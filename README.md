@@ -1,11 +1,9 @@
 # Postman QA Task
 
-Imagine you are testing a room booking application.
-
-Using this room booking [API Documentation](https://restful-booker.herokuapp.com/apidoc/index.html)
+Imagine you are testing a room booking application. Using this room booking [API Documentation](https://restful-booker.herokuapp.com/apidoc/index.html)
 
 ## Task 1
-Based on the API above, how would you go about testing it. Explain your approach in as much detail as you can, taking everything in to consideration.
+Based on the API above and your previous experience of working with API's, how would you go about testing it. Create a TEST-APPROACH.md and explain your test approach in as much detail as you can, taking everything into consideration (it's like a one page test plan containing a brain dump of your thought process).
 
 ## Task 2
 To ensure the application is healthy, the DevOps team call the `/ping` endpoint every minute.
